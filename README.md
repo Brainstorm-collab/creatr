@@ -1,13 +1,10 @@
 # Creatr - AI-Powered Content Creation Platform
 
+## 🚀 Preview 
+
 <div align="center">
-  <img src="./public/banner.png" alt="Creatr Banner" width="800" height="400" />
-  
-  [![Next.js](https://img.shields.io/badge/Next.js-15.4.6-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-  [![React](https://img.shields.io/badge/React-19.1.0-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-  [![Convex](https://img.shields.io/badge/Convex-1.25.4-green?style=for-the-badge)](https://convex.dev/)
+  <img src="./public/preview.png" alt="Creatr Dashboard Preview" width="600" height="400" />
+  <p><em>Dashboard Overview</em></p>
 </div>
 
 ## 🚀 Overview
@@ -47,12 +44,7 @@
 - **PostCSS** - CSS processing
 - **Turbopack** - Fast development builds
 
-## 📸 Screenshots
 
-<div align="center">
-  <img src="./public/preview.png" alt="Creatr Dashboard Preview" width="600" height="400" />
-  <p><em>Dashboard Overview</em></p>
-</div>
 
 ## 🚀 Getting Started
 
