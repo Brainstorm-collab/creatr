@@ -1,13 +1,15 @@
 # Creatr - AI-Powered Content Creation Platform
 
-## 🚀 Preview 
+##  Preview 
 
 <div align="center">
   <img src="./public/preview.png" alt="Creatr Dashboard Preview" width="600" height="400" />
   <p><em>Dashboard Overview</em></p>
 </div>
 
-## 🚀 Overview
+## 🚀 Deployment
+https://creatr-ai-cmf.vercel.app/
+## Overview
 
 **Creatr** is a modern, full-stack content creation platform that leverages AI to help creators generate, publish, and manage engaging blog content. Built with cutting-edge technologies, it provides a comprehensive solution for content creators, bloggers, and digital marketers to streamline their content workflow and grow their audience.
 
